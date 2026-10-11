@@ -1,4 +1,4 @@
-module github.com/hugolify/hugolify-template
+module github.com/dipeshdulalnp/dipeshdulal.github.io
 
 go 1.21
 
