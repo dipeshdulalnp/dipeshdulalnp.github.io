@@ -1,4 +1,4 @@
-module github.com/dipeshdulalnp/dipeshdulal.github.io
+module github.com/dipeshdulalnp/pedagogynotes
 
 go 1.21
 
